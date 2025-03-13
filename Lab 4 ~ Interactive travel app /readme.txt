@@ -1,6 +1,0 @@
-For this lab we had to make a interactive high-fi prototype for a travel app. The Game I decided to pick was called Cozy caravan. It's basically a game where you play as an animal and ride around in this caravan with a bee as your horse. 
-You get to do so many things while going on your adventure. I decided to only do the I frst stage of the map since there is a lot of other portions of the map. But I wanted to keep it short and simple.
-I did a lot of photo taking in my game since I wanted to use my own photos. But I enjoyed trying to get each photo for this lab. 
-I found it really hard to make the sliding pictures work for the homepage. You have to basically go into the homepage and then go to menu and then click home again for it to work. It's really weird. 
-I also had a hard time trying to get the pictues to appear once my house goes over them in the view option. But It never worked so in the locations you have to click on each location name. I wish I made it better but for some reason it just didn't wanna work. 
-I found the designing really fun though! So i enjoyed that! Overall this lab was really fun! I will probably use Figma to plan out any future website or app ideas since it does have that prototype feature built in. 
